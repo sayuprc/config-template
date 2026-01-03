@@ -1,0 +1,13 @@
+{
+    "name": "sayuprc/config-template",
+    "config": {
+        "platform": {
+            "php": "8.4"
+        }
+    },
+    "require-dev": {
+        "symplify/easy-coding-standard": "^13.0",
+        "friendsofphp/php-cs-fixer": "^3.92",
+        "squizlabs/php_codesniffer": "^4.0"
+    }
+}
